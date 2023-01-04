@@ -1,0 +1,82 @@
+/* Uber */
+.request-button {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    height: 40px;
+    width: 110px;
+}
+
+/* Amazon */
+.add-cart {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    width: 160px;
+    height: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* GitHub */
+.sign-up {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Bootstrap */
+.started-button {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    width: 105px;
+    height: 35px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.download-button {
+    border-color: rgb(108, 117, 125);
+    color: rgb(108, 117, 125);
+    width: 90px;
+    height: 35px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* LinkedIn */
+.apply-button {
+    background-color: rgb(10, 102, 194);
+    border: none;
+    color: white;
+    font-weight: bold;
+    width: 210px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.save-button {
+    border-color: rgb(10, 102, 194);
+    color: rgb(10, 102, 194);
+    font-weight: bold;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+/* 2f */
+.buy-button {
+    background-color: rgb(255, 164, 28);
+    border: none;
+    width: 160px;
+    height: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 14px;
+}

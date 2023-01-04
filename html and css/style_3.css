@@ -1,0 +1,115 @@
+/* Uber */
+.request-button {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    height: 40px;
+    width: 110px;
+}
+.request-button:hover {
+    opacity: 0.85;
+}
+
+/* Amazon */
+.add-cart {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    width: 160px;
+    height: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.add-cart:hover {
+    background-color: rgb(255, 196, 0);
+}
+.add-cart:active {
+    opacity: 0.4;
+}
+
+/* GitHub */
+.sign-up {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.sign-up:hover {
+    box-shadow: 1px 3px lightgray;
+}
+
+/* Bootstrap */
+.started-button {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    width: 105px;
+    height: 35px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.started-button:hover {
+    background-color: rgb(101, 62, 159);
+}
+.download-button {
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: rgb(128, 135, 142);
+    color: rgb(108, 117, 125);
+    width: 90px;
+    height: 35px;
+    cursor: pointer;
+}
+.download-button:hover {
+    background-color: rgb(128, 135, 142);
+    color: white;
+}
+
+/* LinkedIn */
+.apply-button {
+    background-color: rgb(10, 102, 194);
+    border: none;
+    color: white;
+    font-weight: bold;
+    width: 210px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.apply-button:hover {
+    background-color: rgb(0, 67, 159);
+}
+.save-button {
+    border-color: rgb(10, 102, 194);
+    color: rgb(10, 102, 194);
+    font-weight: bold;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.save-button:hover {
+    background-color: rgb(180, 212, 243);
+    border-width: 3px;
+}
+
+/* 3f */
+.back-to-amazon:hover {
+    color: orange;
+}
+.buy-button {
+    background-color: rgb(255, 164, 28);
+    border: none;
+    width: 160px;
+    height: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.buy-button:active {
+    opacity: 0.4;
+}
